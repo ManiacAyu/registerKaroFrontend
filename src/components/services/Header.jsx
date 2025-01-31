@@ -1,9 +1,9 @@
 import { Box, Grid } from "@mui/material";
 import monday from "../../assets/monday.png";
-import oracle from "../../assets/oracle.png";
-import morpheus from "../../assets/morpheus.png";
-import samsung from "../../assets/samsung.png";
-import segment from "../../assets/segment.png";
+import oracle from "../../assets/monday.png";
+import morpheus from "../../assets/monday.png";
+import samsung from "../../assets/monday.png";
+import segment from "../../assets/monday.png";
 
 export const Header = () =>{
     return (
